@@ -10,6 +10,6 @@
   display: none;
 }
 
-#wall .parent { /*done*/
+.tag-1 + #tag-2 { /*done*/
   display: none;
 }
