@@ -1,11 +1,11 @@
 /* write your override styles here */
-#wall .tag-1 {
+#wall .tag-1 { /*done*/
   display:none;
 }
-#wall #tag-3.slick.wicked {
+#wall #tag-3.slick.wicked { /*done*/
   display:none;
 }
 
-#wall .parent {
+#wall .parent { /*done*/
   display: none;
 }
