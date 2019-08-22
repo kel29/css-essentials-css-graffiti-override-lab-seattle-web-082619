@@ -6,7 +6,7 @@
   display:none;
 }
 
-#wall .parent { /*done*/
+#wall.parent { /*done*/
   display: none;
 }
 
