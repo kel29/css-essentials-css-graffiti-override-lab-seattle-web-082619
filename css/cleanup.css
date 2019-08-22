@@ -2,14 +2,16 @@
 #wall .tag-1 { 
   display:none;
 }
-#wall #tag-3.slick.wicked { /*done (3)*/
+#wall #tag-3.slick.wicked {
   display:none;
 }
 
-#wall.parent { /*done*/
+#wall.parent { 
   display: none;
 }
 
-.tag-1 + #tag-2 { /*done*/
+.tag-1 + #tag-2 { 
   display: none;
 }
+
+/*done with tags: 1, 3, */
