@@ -1,20 +1,16 @@
 /* write your override styles here */
 #wall .tag-1 { 
-  /*tag-1 = skull popsicle*/
   display:none;
 }
 #wall #tag-3.slick.wicked {
-  /*tag-3 = grey words*/
   display:none;
 }
 
 #wall div #tag-4 { 
   display: none;
-  /*tag-4 = peace kid*/
 }
 
 body #wall #tag-2 { 
-  /*tag-2 = arrows*/
   display: none;
 }
 
@@ -26,10 +22,11 @@ body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+body div#wall div.parent div > div#tag-7.slick {
   display:none;
 }
-/*done with tags: 1, 3, 
+
+/*
 tag-1 = skull popsicle
 tag-2 = arrows
 tag-3 = grey words
