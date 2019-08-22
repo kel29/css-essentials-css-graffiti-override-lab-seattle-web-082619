@@ -1,8 +1,10 @@
 /* write your override styles here */
-#wall .tag-1 { tag-1 = skull popsicle
+#wall .tag-1 { 
+  /*tag-1 = skull popsicle*/
   display:none;
 }
 #wall #tag-3.slick.wicked {
+  /*tag-3 = grey words*/
   display:none;
 }
 
